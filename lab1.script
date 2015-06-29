@@ -1,0 +1,13 @@
+Script started on 2015年06月30日 (週二) 02時16分27秒
+]0;F74012112@2015cpp: ~F74012112@2015cpp:~$ whoami; [w[K[Kpwd
+F74012112
+/home/F74012112
+]0;F74012112@2015cpp: ~F74012112@2015cpp:~$ it[Kg[Kg[K[Kgti [K[K[Kit congi[K[Kfit[Kg[K[K[Kfig -l
+user.name=tomlin719
+user.email=f74012112@mail.ncku.edu.tw
+]0;F74012112@2015cpp: ~F74012112@2015cpp:~$ git co[Klone https://github.com.[K/tomlin719/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74012112@2015cpp: ~F74012112@2015cpp:~$ exit
+
+Script done on 2015年06月30日 (週二) 02時18分12秒
